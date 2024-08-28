@@ -14,11 +14,12 @@ This is a Chess game built in Java using the Swing library. The game is designed
 
 ## Preview
 
-![Start of a Game](https://github.com/yashwardhan-jyani/Chessy/images/start.png)
+   <img src="images/start.png" alt="Starting Position" width="400"/>
 
-![Making a move using the Bishop](https://github.com/yashwardhan-jyani/Chessy/images/move.png)
+   <img src="images/checkmate.png" alt="Checkmate" width="400"/>
 
-![Checkmate](https://github.com/yashwardhan-jyani/Chessy/images/checkmate.png)
+   <img src="images/move.png" alt="Available Moves" width="400"/>
+
 
 ## Getting Started
 
@@ -30,26 +31,26 @@ This is a Chess game built in Java using the Swing library. The game is designed
 ### Installation
 
 1. Clone the Repository:
-```
-git clone https://github.com/yashwardhan-jyani/Chessy.git
-```
+    ```
+    git clone https://github.com/yashwardhan-jyani/Chessy.git
+    ```
 
 2. Navigate to the Project Directory:
-```
-cd Chessy
-```
+    ```
+    cd Chessy
+    ```
 
 3. Compile the Project:
-```
-javac -d bin src/main/*.java src/pieces/*.java
-```
+    ```
+    javac -d bin src/main/*.java src/pieces/*.java
+    ```
 
 4. Copy the Resources:
-```
-xcopy src\res bin\res
-```
+    ```
+    xcopy src\res bin\res
+    ```
 
 5. Run the Game:
-```
-java -cp bin main.Main
-```
+    ```
+    java -cp bin main.Main
+    ```
