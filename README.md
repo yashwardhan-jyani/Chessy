@@ -14,11 +14,11 @@ This is a Chess game built in Java using the Swing library. The game is designed
 
 ## Preview
 
-   <img src="images/start.png" alt="Starting Position" width="400"/>
+   <img src="https://github.com/user-attachments/assets/aa68b65b-4639-4847-adc4-7273b24a1419" alt="Starting Position" width="500"/>
 
-   <img src="images/checkmate.png" alt="Checkmate" width="400"/>
+   <img src="https://github.com/user-attachments/assets/0fa6c9f5-9253-4651-8e24-d294eee0e795" alt="Checkmate" width="500"/>
 
-   <img src="images/move.png" alt="Available Moves" width="400"/>
+   <img src="https://github.com/user-attachments/assets/cb754389-25cb-41c2-a5d0-ced174a829e7" alt="Available Moves" width="500"/>
 
 
 ## Getting Started
